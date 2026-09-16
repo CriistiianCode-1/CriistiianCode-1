@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy Cristian 👋
 
-<!--
-**CriistiianCode-1/CriistiianCode-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado del código que se está **iniciando en el mundo del desarrollo de aplicaciones web**. Me encanta aprender cosas nuevas todos los días y construir proyectos para mejorar mis habilidades.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+- 💻 Actualmente aprendiendo: **HTML, CSS, JavaScript y desarrollo Web**.
+- 🛠️ Mi objetivo: Crear aplicaciones web funcionales, atractivas y fáciles de usar.
+- 🌱 Explorando el ecosistema de Git y GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas
+Aquí puedes poner los logos o nombres de lo que vas aprendiendo:
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Herramientas:** VS Code Hyper-V Virtual box 
+
+---
+*¡Gracias por pasarte por aquí! Si tienes algún consejo o quieres colaborar en algún proyecto de práctica, no dudes en contactarme.*
